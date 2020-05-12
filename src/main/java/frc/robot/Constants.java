@@ -21,7 +21,7 @@ import edu.wpi.first.wpilibj.XboxController;
  */
 public final class Constants {
     //Little Easter Egg to test Github functionally
-	// Hi Chris how was your day?
+    //It is going Swimmingly
 //Motor ID's
     //Drive Train Motors
     public static final int MOTOR_LEFT_BACK_ID = 1;
