@@ -71,4 +71,7 @@ public final class Constants {
     //min&max for distance
     public static final double SHOOTING_MAX=268;
     public static final double SHOOTING_MIN=258;
+	
+    //Github test 2:
+    //public static final person Chris = Chad;
 }
